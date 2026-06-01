@@ -1,0 +1,7 @@
+# Data exports (not redistributed)
+data/*.csv
+# OS / editor
+.DS_Store
+.Rhistory
+.RData
+*.log
