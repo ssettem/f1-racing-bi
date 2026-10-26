@@ -13,7 +13,7 @@ This was a three-person capstone (Group D: Teo Verdu Nieva, Sujan Settem, Wajid 
 - **Section D, Business Forecasting:** ARIMA baseline, ARIMAX with a regulatory regressor, and Granger causality testing.
 - **Section E, Predictive Modeling:** Random Forest vs. Deep Neural Network comparison to predict constructor championship points.
 
-The shared data layer (the SQL warehouse the team assembled the dataset in) is included as **context only** under `/sql`. It was built collaboratively and this repo is scoped to the modeling I did. Everything in `/forecasting`, `/ml`, and `/regression` reflects code and results I produced.
+The shared data layer (the SQL warehouse the team assembled the dataset in) is included as **context only** under `/sql`. It was built collaboratively and this repo is scoped to the modeling I did. Everything in `/forecasting`, `/ml`, and `/regression` reflects modeling I owned: I built and tested the models with AI coding assistants, then chose and interpreted the results myself. I documented the methods in Word and planned the presentation's story in NotebookLM.
 
 ---
 
